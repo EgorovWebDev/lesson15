@@ -1,0 +1,23 @@
+body {
+	background-color: #e6e6e6;
+}
+.form {
+	position: absolute;
+	top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+	text-align: center;
+	border: 2px solid black;
+	padding: 15px;
+	border-radius: 5px
+}
+.sub {
+	margin: 15px 0;
+}
+.sub-text {
+	margin-bottom: 10px;
+}
+.button {
+	outline: none;
+	cursor: pointer;
+}
